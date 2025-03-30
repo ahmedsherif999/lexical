@@ -52,7 +52,7 @@ def get_non_blank():
 
 
 def lookup(char):
-    """التعرف على العمليات والعلامات الخاصة"""
+    
     global nxt_tok
 
     token_map = {
